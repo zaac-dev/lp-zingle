@@ -40,7 +40,7 @@
     --py-xl: 3rem;
 
     --px-lg: 1.5rem;
-    --px-xl: 2rem;
+    
 }
 
 html {
@@ -92,7 +92,6 @@ a:hover {
 
 ul[role="list"] {
     list-style: none;
-    display: block;
 }
 
 img {
